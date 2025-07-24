@@ -6,7 +6,11 @@
   src: url("/fonts/Jost-SemiBold.woff2") format("woff2");
   font-display: swap;
   unicode-range: U+0000-007F, U+0080-00FF;
-}/* latin-ext */@font-face {
+.font-jost hyphens-manual{
+   background-color: rgb(216, 245, 250);
+
+}
+/* latin-ext */@font-face {
   font-family: "Jost";
   font-style: normal;
   font-weight: 600;
