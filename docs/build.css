@@ -1,6 +1,6 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");/* latin */@font-face {
-  font-family: "Jost";
+  font-family: "'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif";
   font-style: normal;
   font-weight: 600;
   src: url("/fonts/Jost-SemiBold.woff2") format("woff2");
@@ -92,7 +92,7 @@
   box-sizing: border-box; /* 1 */
   border-width: 0; /* 2 */
   border-style: solid; /* 2 */
-  border-color: #C4C4C4; /* 2 */
+  border-color: #A8E6D9; /* 2 */
 }::before,
 ::after {
   --tw-content: '';
@@ -298,7 +298,7 @@ Prevent resizing textareas horizontally by default.
 }input::placeholder,
 textarea::placeholder {
   opacity: 1; /* 1 */
-  color: #7C7C7C; /* 2 */
+  color: #CFE6C4; /* 2 */
 }/*
 Set the default cursor for buttons.
 */button,
