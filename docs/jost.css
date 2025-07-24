@@ -1,10 +1,4 @@
 /* latin */
-*{
-  color: aquamarine;
-  margin: 20px;
-  padding: auto;
-  background-color: rgb(249, 249, 239);
-}
 @font-face {
   font-family: "Jost";
   font-style: normal;
